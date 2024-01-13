@@ -1,0 +1,27 @@
+h1
+{
+    Color: Yellow;
+    Background-color: Black;
+}
+ul,ol
+{
+    Color: Yellow;
+    Background-Color: Black;
+}
+Body 
+{
+    Color: Yellow;
+    Background-color:Gray;
+}
+.abc
+{
+    Color: Black;
+    Background-color: Yellow;
+    Font-Style:italic;
+    Text-Transform: Uppercase;
+}
+#abc
+{
+    Color:Black;
+    Background-color: yellow ;
+}
